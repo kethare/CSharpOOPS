@@ -1,0 +1,6 @@
+C:\Users\kabilan\Documents\Visual Studio 2017\Projects\CSharpOOPS\OOPS.CSharp\bin\Debug\OOPS.CSharp.dll
+C:\Users\kabilan\Documents\Visual Studio 2017\Projects\CSharpOOPS\OOPS.CSharp\bin\Debug\OOPS.CSharp.pdb
+C:\Users\kabilan\Documents\Visual Studio 2017\Projects\CSharpOOPS\OOPS.CSharp\obj\Debug\OOPS.CSharp.csprojAssemblyReference.cache
+C:\Users\kabilan\Documents\Visual Studio 2017\Projects\CSharpOOPS\OOPS.CSharp\obj\Debug\OOPS.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kabilan\Documents\Visual Studio 2017\Projects\CSharpOOPS\OOPS.CSharp\obj\Debug\OOPS.CSharp.dll
+C:\Users\kabilan\Documents\Visual Studio 2017\Projects\CSharpOOPS\OOPS.CSharp\obj\Debug\OOPS.CSharp.pdb
